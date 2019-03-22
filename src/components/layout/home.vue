@@ -144,7 +144,7 @@ html,body{
                 <div >
                 </div>
             </Content>
-            <Footer class="layout-footer-center">2011-2016 &copy; TalkingData</Footer>
+            <Footer class="layout-footer-center">2019 &copy; Nyaxs - All rights reserved  </Footer>
         </Layout>
        
     </div>
